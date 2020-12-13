@@ -176,7 +176,7 @@ a
     .menu
     {
         background-color: #ffffff20;
-        position: absolute;
+        position: fixed;
         left: 0;
         height: 100vh;
         top: 0vh;
